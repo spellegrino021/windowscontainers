@@ -1,1 +1,1 @@
-FROM microsoft/aci-helloworld
+FROM microsoft/mssql-server-windows-developer
