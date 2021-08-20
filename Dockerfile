@@ -1,1 +1,1 @@
-FROM microsoft/aci-helloworld
+FROM mcr.microsoft.com/azure-app-service/windows/parkingpage:latest
